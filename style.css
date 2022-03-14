@@ -24,6 +24,7 @@ a {
 .imag{
   width: 640px;
   height: auto;
+  padding-top: 2%;
 }
 .vid{
   position: absolute;
